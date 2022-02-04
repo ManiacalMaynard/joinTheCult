@@ -1,0 +1,14 @@
+:root {
+    --green-light: #33a14f;
+}
+
+* { border: 1px solid pink }
+
+h1 {
+    font-family: 'Comforter Brush', cursive;
+    color: var(--green-light)
+}
+
+img {
+    max-width: 80%;
+}
